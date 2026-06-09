@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Multiverse Signal Lab"
+abstract: >
+  A reproducible pipeline for searching exotic early-universe signatures
+  (bubble collisions, cosmic strings) in CMB temperature and polarization maps.
+  Includes matched-filter detection, Bayesian evidence computation, injection-recovery
+  validation, and a digital twin CMB simulator.
+version: "0.2.0"
+date-released: "2025-01-01"
+license: MIT
+keywords:
+  - CMB
+  - cosmology
+  - bubble collision
+  - cosmic string
+  - matched filter
+  - injection recovery
+  - reproducible science
+  - digital twin
+authors:
+  - name: "Multiverse Signal Lab Contributors"
+repository-code: "https://github.com/nuvazic-pixel/multiverse-signal-lab"
