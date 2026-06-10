@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20616902.svg)](https://doi.org/10.5281/zenodo.20616902)
+
+
 # Multiverse Signal Lab
 
 **A reproducible pipeline for searching exotic early-universe signatures in CMB-like maps.**
